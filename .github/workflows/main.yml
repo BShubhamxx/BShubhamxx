@@ -1,0 +1,13 @@
+name: Snake animation
+
+on:
+  push:
+    branches: ["main"]
+
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate snake animation
+        uses: k1low/snake-animation@main
