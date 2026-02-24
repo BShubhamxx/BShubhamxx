@@ -25,4 +25,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/buymeacoffee bshubhamxx"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee bshubhamxx" /></a></p><br><br>
 
-![Snake animation](https://github.com/BShubhamxx/BShubhamxx/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github.com/BShubhamxx/BShubhamxx/actions/workflows/snake.yml/badge.svg" alt="snake animation" />
+</p>
