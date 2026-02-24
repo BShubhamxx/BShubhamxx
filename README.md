@@ -26,5 +26,5 @@
 <p><a href="https://www.buymeacoffee.com/buymeacoffee bshubhamxx"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee bshubhamxx" /></a></p><br><br>
 
 <p align="center">
-  <img src="https://github.com/BShubhamxx/BShubhamxx/actions/workflows/snake.yml/badge.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/bshubhamxx/bshubhamxx/output/github-contribution-grid-snake.svg" />
 </p>
