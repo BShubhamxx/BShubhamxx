@@ -1,7 +1,7 @@
 <h1 align="center">Hi, Shubham here!</h1>
 <h3 align="center">I'm a Computer Engineering student who is trying to do BETTER!!</h3>
 
-<p align="center"><img src="./Assets/Dance%20Love%20Sticker.gif" width="200" /></p>
+<!-- <p align="center"><img src="./Assets/Dance%20Love%20Sticker.gif" width="200" /></p> -->
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bshubhamxx&label=Profile%20views&color=0e75b6&style=flat" alt="bshubhamxx" /> </p>
 
